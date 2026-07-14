@@ -1,6 +1,45 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=FABD2F&center=true&vCenter=true&width=500&lines=hi%2C+i'm+reptop;software+engineer+%40+hilos;math+enjoyer+%7C+chiikawa+enthusiast;currently+learning+pytorch" alt="typing intro" />
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200" font-family="ui-monospace, 'JetBrains Mono', 'Fira Code', monospace">
+  <style>
+    .line { opacity: 0; animation: appear .01s linear forwards; }
+    .l1 { animation-delay: .4s; }
+    .l2 { animation-delay: 1.2s; }
+    .l3 { animation-delay: 2.0s; }
+    .l4 { animation-delay: 2.8s; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes appear { to { opacity: 1; } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+  </style>
+
+  <!-- window -->
+  <rect x="1" y="1" width="558" height="198" rx="10" fill="#282828" stroke="#3c3836" stroke-width="2"/>
+  <!-- title bar -->
+  <rect x="1" y="1" width="558" height="34" rx="10" fill="#1d2021"/>
+  <rect x="1" y="25" width="558" height="10" fill="#1d2021"/>
+  <circle cx="24" cy="18" r="6" fill="#fb4934"/>
+  <circle cx="44" cy="18" r="6" fill="#fabd2f"/>
+  <circle cx="64" cy="18" r="6" fill="#b8bb26"/>
+  <text x="280" y="23" text-anchor="middle" font-size="13" fill="#928374">reptop@github: ~</text>
+
+  <!-- prompt lines -->
+  <text x="24" y="68" font-size="15">
+    <tspan fill="#b8bb26">❯</tspan>
+    <tspan fill="#ebdbb2" dx="6">whoami</tspan>
+  </text>
+  <text class="line l1" x="24" y="92" font-size="15" fill="#fabd2f">reptop — software engineer @ hilos</text>
+
+  <text class="line l2" x="24" y="124" font-size="15">
+    <tspan fill="#b8bb26">❯</tspan>
+    <tspan fill="#ebdbb2" dx="6">cat interests.txt</tspan>
+  </text>
+  <text class="line l3" x="24" y="148" font-size="15" fill="#83a598">math · chiikawa · pytorch</text>
+
+  <text class="line l4" x="24" y="180" font-size="15">
+    <tspan fill="#b8bb26">❯</tspan>
+    <tspan class="cursor" fill="#ebdbb2" dx="8">█</tspan>
+  </text>
+</svg>
 
 </div>
 
