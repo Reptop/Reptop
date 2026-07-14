@@ -1,26 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="header" width="560" />
+<img src="./assets/header.svg" alt="fastfetch" width="810" />
 
 </div>
-
-```bash
-❯ fastfetch --profile reptop
-```
-
-```text
----\\\\\\\\\\\\\\\\\\-----------------------           reptop@github
-----\\\\\\      \\\\\\----------------------                 -----------------------------
------\\\\\\      \\\\\\---------------------                 Role     : Software Engineer @ HILOS
-------\\\\\\      \\\\\\\\\\\\\\\\\\\\------                 OS       : Bedrock Linux
--------\\\\\\                    \\\\\\-----                 Strata   : void, gentoo, ubuntu, debian
---------\\\\\\                    \\\\\\----                 Editor   : lazyvim + meslo lgs nerd font
----------\\\\\\        ______      \\\\\\---                 Theme    : gruvbox dark, always
-----------\\\\\\                   //////---                 Loves    : math, shisa from chiikawa
------------\\\\\\                 //////----                 Learning : pytorch
-------------\\\\\\               //////-----                 Cats     : yuuki & gohan
--------------\\\\\\///////////////////------                 -----------------------------
-```
 
 ## `❯ stack --list`
 
@@ -53,14 +35,13 @@
 - doing math with manim and studying diffeq
 - watching hunter x hunter with friends
 
-<div align="center">
-  <img src="./assets/shisa.gif" alt="shisa" width="260" />
-<div align="center">
-
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reptop&style=for-the-badge&color=fabd2f&label=visitors" alt="visitor count" />
+
+<img src="./assets/shisa.gif" alt="shisa" width="220" />
+
+<img src="https://komarev.com/ghpvc/?username=Reptop&style=for-the-badge&color=fabd2f&label=visitors" alt="visitor count" />
 
 `❯ exit 0`
 
