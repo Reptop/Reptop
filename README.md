@@ -38,6 +38,10 @@
 
 </div>
 
+<div align="center">
+  <img src="./assets/shisa.gif" alt="shisa" width="280" />
+</div>
+
 ## `❯ git stats`
 
 <div align="center">
@@ -54,10 +58,6 @@
 - watching hunter x hunter with friends
 
 ---
-
-<div align="center">
-  <img src="./assets/shisa.gif" alt="shisa" width="260" />
-</div>
 
 
 <div align="center">
