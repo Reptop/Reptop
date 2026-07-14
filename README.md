@@ -57,6 +57,8 @@
 
 <div align="center">
 
+<img src="./assets/shisa.gif" alt="shisa" width="260" />
+
 <img src="https://komarev.com/ghpvc/?username=Reptop&style=for-the-badge&color=fabd2f&label=visitors" alt="visitor count" />
 
 `❯ exit 0`
