@@ -53,11 +53,11 @@
 - doing math with manim and studying diffeq
 - watching hunter x hunter with friends
 
----
-
 <div align="center">
   <img src="./assets/shisa.gif" alt="shisa" width="220" />
 <div align="center">
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Reptop&style=for-the-badge&color=fabd2f&label=visitors" alt="visitor count" />
