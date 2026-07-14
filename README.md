@@ -42,18 +42,16 @@
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="github metrics" />
-
 <img src="https://streak-stats.demolab.com?user=Reptop&theme=gruvbox&hide_border=true&background=282828&ring=fabd2f&fire=fe8019&currStreakLabel=fabd2f" alt="streak" />
 
 </div>
 
 ## `❯ cat now.txt`
 
-- building backend things at **HILOS** — 3D-printed footwear, real supply chains, real Django
+- building backend things at **HILOS** — 3D-printed footwear, supply chains stuff, Django stuff
 - learning **pytorch**, one tensor at a time
-- doing math for fun (yes, actually)
-- being normal about chiikawa (failing)
+- doing math with manim and studying diffeq
+- watching hunter x hunter with friends
 
 ---
 
