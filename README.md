@@ -13,10 +13,10 @@
 ----\\\\\\      \\\\\\----------------------                 -----------------------------
 -----\\\\\\      \\\\\\---------------------                 Role     : Software Engineer @ HILOS
 ------\\\\\\      \\\\\\\\\\\\\\\\\\\\------                 OS       : Bedrock Linux
--------\\\\\\                    \\\\\\-----                 Strata   : layered, not distro-hopping
---------\\\\\\                    \\\\\\----                 Editor   : neovim + meslo lgs nerd font
+-------\\\\\\                    \\\\\\-----                 Strata   : void, gentoo, ubuntu, debian
+--------\\\\\\                    \\\\\\----                 Editor   : lazyvim + meslo lgs nerd font
 ---------\\\\\\        ______      \\\\\\---                 Theme    : gruvbox dark, always
-----------\\\\\\                   //////---                 Loves    : math, chiikawa
+----------\\\\\\                   //////---                 Loves    : math, shisa from chiikawa
 -----------\\\\\\                 //////----                 Learning : pytorch
 ------------\\\\\\               //////-----                 Cats     : yuuki & gohan
 -------------\\\\\\///////////////////------                 -----------------------------
