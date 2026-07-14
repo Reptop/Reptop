@@ -54,7 +54,7 @@
 - watching hunter x hunter with friends
 
 <div align="center">
-  <img src="./assets/shisa.gif" alt="shisa" width="220" />
+  <img src="./assets/shisa.gif" alt="shisa" width="260" />
 <div align="center">
 
 ---
