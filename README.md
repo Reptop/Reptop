@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="fastfetch" width="810" />
+<img src="/assets/header.svg" alt="fastfetch" width="810" />
 
 </div>
 
