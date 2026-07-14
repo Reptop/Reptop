@@ -51,10 +51,10 @@
 
 ## `❯ cat now.txt`
 
-- building backend things at **HILOS** — 3D-printed footwear, real supply chains, real Django
-- learning **pytorch**, one tensor at a time
-- doing math for fun (yes, actually)
-- being normal about chiikawa (failing)
+- building backend things at **HILOS** — 3D-printed footwear, supply chains stuff, Django stuff
+- learning **pytorch**
+- doing math for fun
+- watching hunter x hunter with friends
 
 ---
 
